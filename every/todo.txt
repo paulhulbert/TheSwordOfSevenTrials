@@ -1,0 +1,60 @@
+//place arraylist of units in room as badguys
+
+//set up warping
+
+//set up no move while attack
+//choose between ranged and not
+
+//make respawn
+
+
+//make items
+
+//make enemy drop items
+
+//make weapon change
+
+//fix dead chat
+
+//fix chat to weapons
+
+//have steven draw inn sign
+
+//make spearfaceleft a solid block
+
+
+the year is about 1050
+
+
+timer should be 25
+
+//make melee weapons follow you.
+
+
+
+
+____________________________________________________
+
+lines for new weapons are
+
+unit.java(
+171 dropper()
+307 getreload()
+320 getreload2()
+334 inrange()
+386 attack()
+413 attack2()
+)
+
+platform.java(
+121 step()
+)
+
+
+____________________________________________________
+
+
+unit's dir runs off 1to2
+weapon's dir runs off -1to1
+
+
